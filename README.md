@@ -1,3 +1,2 @@
 # hello-world
-Hi there
-This one is checking commmit
+This one is merge checking
