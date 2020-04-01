@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Hi there
+This one is checking commmit
